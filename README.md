@@ -81,3 +81,42 @@ A falta de comunicação traz perda de visibilidade e valor percebido
 
 ![image](https://github.com/WanessaCarvalho378/customer-success/assets/143955162/20f3e471-6187-4438-80b7-57d7f0b5b0b8)
 Jornada de comunicação entre o cliente e o sucesso
+
+</details>
+
+<details>
+<summary> Spin Selling </summary>
+
+**S - Situação** - Entender o contexto do cliente - perguntas que podem ser feitas: 
+Quais são seus maiores desafios hoje? Quais desafios você enfrente na sua rotina?
+Como você define bons resultados?
+Como você faz atualmente? Com que tipos de produtos e serviços você trabalha?
+Qual seu plano de crescimento para esse e o próximo semestre?
+
+**P - Problema** - revelar pontos de dor que talvez o cliente não tenha identificado sozinho - Perguntas que podem ser feitas: 
+Você está satisfeito(a) com o modo atual?
+Quais estratégias você tem em relação à concorrência?
+Os dados que você tem são confiáveis?
+Qual o principal motivo de insatisfação dos seus clientes?
+
+**I - Implicação** - Se ter uma maior clareza do problema apresentado e como este ponto influencia no sucesso atual do cliente trazendo um realce as dores - Perguntas que podem ser feitas: 
+Quanto tempo seu time gasta por semana fazendo isso?
+Quanto isso vai afetar o desempenho?
+Já tomou alguma decisão errada por conta da falta de informação?
+Você está fazendo alguma ação para diminuir essa quebra?
+
+**N - Necessidade de solução** - Aprofundar na necessidade do cliente e sinalizar como a sua empresa pode apoiar nas tomadas de decisão necessárias - Perguntas que podem ser feitas: 
+Se você pudesse monitorar isso em tempo real, seria mais fácil?
+Se você conseguir detectar esses problemas, quanto vai aumentar a sua taxa de retenção?
+Se você tivesse essa informação, te daria mais segurança nas suas ações?
+
+*"Por vezes as pessoas não querem ouvir a verdade, porque não desejam que as suas ilusões sejam destruídas" - Friedrich Nietzsche* 
+
+Às vezes, os clientes não querem ouvir diretamente que a operação dele apresenta problemas, ou que não tem dados confiáveis, e precisa de nossa ajuda para resolver essa situação.
+
+Para apresentar essas possíveis respostas, é necessário permitir que o cliente reconheça esses aprendizados com base nessas perguntas feitas. 
+**Assim, primeiro o cliente precisa se responder, percebendo sua dor e a necessidade de ajuda para supri-la**
+
+![image](https://github.com/WanessaCarvalho378/customer-success/assets/143955162/5564bf53-d963-4c49-a944-41c26f891959)
+E um desejo genuíno de ajudar mesmo, porque por trás do cliente, sempre vai existir uma pessoa, e que aquele cliente está apresentando uma dor e você tem como ajudar
+**Até porque, o sucesso do cliente é o sucesso da companhia!**
