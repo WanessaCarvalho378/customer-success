@@ -120,3 +120,52 @@ Para apresentar essas possíveis respostas, é necessário permitir que o client
 ![image](https://github.com/WanessaCarvalho378/customer-success/assets/143955162/5564bf53-d963-4c49-a944-41c26f891959)
 E um desejo genuíno de ajudar mesmo, porque por trás do cliente, sempre vai existir uma pessoa, e que aquele cliente está apresentando uma dor e você tem como ajudar
 **Até porque, o sucesso do cliente é o sucesso da companhia!**
+
+</details>
+
+### Resultados em CS - Métricas e indicadores
+<details>
+<summary> Métricas e indicadores </summary>
+
+Entre o cliente e o sucesso de suas estratégias estão a Estratégia, o Monitoramento e as Metas definidas
+
+Buscamos o sucesso da companhia e sucesso da empresa-cliente 
+
+Métrica: medidas individuais e coletáveis
+Indicadores: conjunto de métricas 
+
+**Indicadores de qualidade:** 
+- Health score: nível de usabilidade dele com o seu produto / vantagem principal: reduzir churn
+- Retenção: Até porque, é mais barato e vantajoso manter um cliente
+- Churn rate (taxa de cancelamento)
+- Net Promoter Score (NPS): nota média de indicação dos clientw
+- Uso e engajamento: Se seu produto é um software, você consegue metrificar quantas vezes seu cliente usa a ferramenta
+- Taxa de conversão: Ex.: a taxa de conversão entre a visita a uma página de um aplicativo e sua instalação.
+
+**Indicadores de receita:** 
+- MRR
+- Upsell: venda de algo mais caro ou superior ao que o consumidor tem
+- cross-sell: venda de produto adicional
+- Lifetime Value (LTV): estimativa da receita média que um cliente irá gerar ao longo de sua vida como cliente
+
+![image](https://github.com/WanessaCarvalho378/customer-success/assets/143955162/55559f5c-7b1d-41cd-902f-fcf659336069)
+
+
+**Leading indicators** 
+alerta de fumaça - indicadores de preocupação 
+
+- Health Score
+- taxa de engajamento
+- feedback direto do cliente
+- Clientes inadimplentes
+
+**Lagging indicators**
+alerta de fogo - indicador mais imediato - 
+alerta de fogo - indicadores finais de que o impacto negativo já alcançou os clientes e não temos como agir preventivamente. 
+
+- Pesquisa de satisfação (CSAT)
+- NPS
+- churn rate
+- LTV
+- taxa de renovação
+- expansão da base
