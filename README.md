@@ -169,3 +169,11 @@ alerta de fogo - indicadores finais de que o impacto negativo já alcançou os c
 - LTV
 - taxa de renovação
 - expansão da base
+
+</details>
+
+### Soft e hard skills associadas a um profissional de CS
+<details>
+<summary> Soft e hard skills </summary>
+  
+![image](https://github.com/WanessaCarvalho378/customer-success/assets/143955162/f108ac51-8e7e-4c0a-852e-a33fea441835)
